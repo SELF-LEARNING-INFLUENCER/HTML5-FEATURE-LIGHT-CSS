@@ -1,0 +1,17 @@
+.header{
+  background-color: black;
+  text-align: center;
+  line-height: 5px;
+}
+.header h1{
+  font-weight: bolder;
+  color: #f10b0b;
+  padding-top: 25px;
+}
+.header p{
+  font-style: italic;
+  font-weight: lighter;
+  color: blanchedalmond;
+  text-indent: 400px;
+  padding-bottom: 20px;
+}
