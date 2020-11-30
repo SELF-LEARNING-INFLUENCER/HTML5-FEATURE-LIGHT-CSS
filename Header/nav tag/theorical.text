@@ -1,0 +1,5 @@
+HTML <nav> tag is used to represent a section which contains navigation links, either 
+within current document or to another document. Examples of some navigation links are 
+menu, table of contents, indexes, etc.
+
+The <nav> tag is newly added tag in HTML5.

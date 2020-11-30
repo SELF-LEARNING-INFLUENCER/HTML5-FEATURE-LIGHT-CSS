@@ -1,0 +1,17 @@
+.navbar{
+  background-color: #553dec;
+  width: 100%;
+  text-align: right;
+  padding: 5px;
+}
+a{
+  text-align: right;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 20px;
+  padding: 10px;
+  color: #f6f640;
+}
+a:hover{
+  color: #fb2698;
+}
