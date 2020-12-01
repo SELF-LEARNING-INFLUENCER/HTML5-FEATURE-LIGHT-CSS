@@ -1,0 +1,12 @@
+aside{
+  border: 1px solid #86e086;
+  margin: 5px;
+  padding: 5px;
+  float: right;
+}
+aside p{
+  text-align: justify;
+}
+.main{
+  width: 75%;
+}
