@@ -1,0 +1,17 @@
+footer{
+    background-color:crimson;
+    padding: 5px;
+}
+nav a{
+    font-size: 20px;
+    color: lawngreen;
+}
+a:hover{
+    color: mediumspringgreen;
+}
+.it{
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    color: mediumseagreen;
+}
