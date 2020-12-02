@@ -1,0 +1,9 @@
+The <progress> element represents the completion progress of a task.
+
+This element normally used to indicate how much of a task has been completed,
+such as loading something on a page or registration process. It is typically displayed 
+as a progress bar and often marked as a percentage from 0 to 100%.
+HTML <progress> tag supports the global and event attributes as well as
+2 specific attributes:
+value:	It defines that how much work the task has been completed.
+max:	It defines that how much work the task requires in total.
