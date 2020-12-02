@@ -1,0 +1,9 @@
+HTML <figure> tag is used to mark up a photo in the document on a web page.
+
+As we know image tag is already available in HTML to display the pictures on web pages.
+But HTML 5 <figure> tag is used to handle the group of diagrams, photos, code listing
+etc. with some embedded content. You can also add a caption for the photo with the help
+of <figcaption> tag.
+The <figcaption> element is used to provide a caption to an image.
+
+It is an optional tag and can appear before or after the content within the <figure> tag
