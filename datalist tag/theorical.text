@@ -1,0 +1,5 @@
+The <datalist> element specifies a set of pre-defined options for an <input> element.
+It provides a list of predefined options for the users to select data.
+Its not only saves the time of a user but also reduces errors, because the user has
+less likelihood of making a spelling mistake. The list attribute of the input element
+is used to bind it together with a datalist element.
