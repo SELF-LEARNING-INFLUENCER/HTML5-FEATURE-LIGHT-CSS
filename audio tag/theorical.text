@@ -1,0 +1,7 @@
+The <audio> element is used to embed audio content in an HTML document without 
+requiring any additional plug-in like Flash player.
+Currently there are three supported file format for HTML 5 audio tag
+
+mp3
+wav
+ogg
