@@ -1,0 +1,10 @@
+This is the easiest and popular way to embed videos files in the web pages. Just upload 
+the video on YouTube and insert HTML code to display that video in your web page.
+Go to YouTube upload video page and follow the instructions to upload your video.
+When you open your uploaded video in YouTube you will see something like the following 
+figure at the bottom of the video. Browse and open your uploaded video in YouTube.
+Now look for the share button which is located just below the video as shown in the figure.
+When you click the share button, a share panel will open displaying some more buttons.ù
+Now click on the Embed button, it will generate the HTML code to directly embed the video
+into the web pages. Just copy and paste that code into your HTML document where you want
+to display the video and you're all set. By default video embedded inside an iframe.
