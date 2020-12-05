@@ -1,0 +1,8 @@
+The newly introduced HTML5 <video> element provides a standard way to embed video in web 
+pages. However, the video element is relatively new, but it works in most of the modern 
+web browsers.
+Currently, there are three video formats supported for HTML video tag:
+
+mp4
+webM
+ogg
